@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Thought Stuff]]></title>
-  <link href="http://steveparrington.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Mental Health | Thought Stuff]]></title>
+  <link href="http://steveparrington.github.io/blog/categories/mental-health/atom.xml" rel="self"/>
   <link href="http://steveparrington.github.io/"/>
   <updated>2017-01-29T12:16:10+00:00</updated>
   <id>http://steveparrington.github.io/</id>
